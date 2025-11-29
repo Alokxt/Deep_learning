@@ -1,0 +1,48 @@
+# 🧠 Deep Learning From Scratch & Projects
+
+This repository contains my **deep learning learning journey**, where I implement:
+
+- 🔹 Deep learning concepts **from scratch using NumPy & Pytorch**
+- 🔹 Core algorithms and training loops
+- 🔹 Small deep learning projects
+- 🔹 Experiments with activation functions, loss functions, and optimizers
+
+
+The main goal of this repository is to **understand deep learning at a low level**.
+
+---
+
+## 📌 What This Repository Includes
+
+### ✅ 1. Neural Networks From Scratch
+Implementation of:
+- Forward Propagation
+- Backpropagation
+- Weight & Bias Updates
+- Gradient Descent
+
+
+
+### ✅ Mini Deep Learning Projects
+  - *Fashion-Mnist classification*
+(Projects will be added continuously ✅)
+
+---
+
+### ✅ Experimentation & Learning
+This repo also contains:
+- Architecture experiments
+- Debugging backprop
+- Gradient checking
+- Accuracy and evaluation metrics
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python
+- **Core Library:** NumPy, PyTorch / TensorFlow
+
+
+---
+
