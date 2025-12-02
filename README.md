@@ -20,7 +20,24 @@ Implementation of:
 - Backpropagation
 - Weight & Bias Updates
 - Gradient Descent
+ 
+### ✅ 2. Backpropagation Optimization Algorithms (From Scratch in PyTorch)
+Learned Advanced Optimization Techniques and implemented with Pytorch.
+- Gradient Descent (GD)
+- Momentum-Based Gradient Descent
+- Nesterov Accelerated Gradient (NAG / NGD)
+- RMSProp
+- Adagrad
+- AdaDelta
+- Adam
+- AdamW
 
+These implementations focus on:
+- How gradients are updated internally  
+- How momentum and velocity work  
+- Moving averages & bias correction  
+- Weight decay & stability  
+- Convergence behavior  
 
 
 ### ✅ Mini Deep Learning Projects
