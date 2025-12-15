@@ -31,7 +31,12 @@ Learned Advanced Optimization Techniques and implemented with Pytorch.
 - AdaDelta
 - Adam
 - AdamW
-
+### ✅ 3. Vanilla RNN from Scratch in Numpy and LSTM in Pytorch
+Understood Core Mathematical concepts behind RNNs , and BPTT 
+ -Applied mathematical concepts with numpy to develop an RNN
+ -Developed new RNN model with Pytorch and did Sentiment analysis on movie reviews 
+ -Learned Different Gates in LSTM and Math Behind them, applied LSTM with pytorch to develop a Next Word Predictor project.
+ 
 These implementations focus on:
 - How gradients are updated internally  
 - How momentum and velocity work  
@@ -42,6 +47,8 @@ These implementations focus on:
 
 ### ✅ Mini Deep Learning Projects
   - *Fashion-Mnist classification*
+  - *Sentiment Analysis With Vanilla RNN*
+  - *Next Word Predictor with LSTM*
 (Projects will be added continuously ✅)
 
 ---
@@ -58,7 +65,7 @@ This repo also contains:
 ## 🛠️ Tech Stack
 
 - **Language:** Python
-- **Core Library:** NumPy, PyTorch / TensorFlow
+- **Core Library:** NumPy, PyTorch 
 
 
 ---
